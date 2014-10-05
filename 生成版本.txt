@@ -1,0 +1,3 @@
+1.在compiler下选择Release
+2.在Packages下去除Build with Runtime Packages
+3.在Linker下去除Use dynamic RTL
